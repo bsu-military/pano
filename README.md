@@ -1,3 +1,3 @@
 # Виртуальная экскурсия по военному факультету
 
-[Смотреть](bsu-military.github.io/pano)
+[Смотреть](https://bsu-military.github.io/pano/)
