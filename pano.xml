@@ -1,846 +1,847 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour start="node17" apprev="18105" appversion="6.1.14">
-  <panorama hideabout="1" id="node17">
-    <input overlap="1" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="-0.147942" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="-2.03279" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+<tour start="node17" appversion="6.1.14" apprev="18105">
+  <panorama id="node17" hideabout="1">
+    <input levelingpitch="-2.03279" width="2176" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="-0.147942">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="200" fovmode="0">
-      <start fov="70" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="200">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="outdoors|pano" latitude="53.893222" altitude="221.60" comment="" nodeid="node17" datetime="" copyright="" source="" author="" info="" customnodeid="" description="" title="Военный факультет" heading="200" longitude="27.564603"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-0.08" distance="172.743" description="" url="{node18}" id="Point01" title="Стадион" target="-2.0/-5.3/70.0" pan="-198.95" skinid="ht_node"/>
-      <hotspot tilt="0.93" distance="36.4937" description="" url="{node2}" id="Point02" title="4-й этаж" target="116.4/-1.7/70.0" pan="-356.41" skinid="ht_node"/>
-      <hotspot tilt="13.16" description="Военный факультет Белорусского государственного университета был создан на базе военной кафедры БГУ, образованной 4 ноября 1926 года по приказу Революционного военного совета СССР. В 1926-1931 годах здесь преподавал будущий четырежды Герой Советского Союза Маршал Советского Союза Георгий Константинович Жуков, служивший в то время в Белорусском военном округе. Также на военной кафедре БГУ проходили в свое время службу Герои Советского Союза генерал-майор Александр Кирсанов и полковник Алексей Патрин. С началом Великой Отечественной войны занятия на военной кафедре БГУ были приостановлены. Возобновились они в 1943 году.&#xa;За время своего существования – до 2003 года – военная кафедра подготовила тысячи офицеров запаса по 13 военно-учетным специальностям.&#xa;Здесь служили и служат (уже на военном факультете БГУ) офицеры, выполнявшие интернациональный долг и награжденные орденами и медалями СССР, Республики Беларусь и других стран.&#xa; &#xa;В соответствии с Постановлением Совета Министров Республики Беларусь № 775 от 11 июня 2003 года военная кафедра была реорганизована в военный факультет БГУ, который  по сей день готовит лучшие военные кадры страны. " url="" id="history_info" title="История" target="" pan="-10.77" skinid="ht_info"/>
-      <hotspot tilt="0.79" description="" url="3u08zGug5v8" id="video" title="Курсант БГУ" target="" pan="-342.19" skinid="ht_video_youtube"/>
-      <hotspot tilt="1.79" description="" url="pWHAwEO7zcA" id="Point03" title="BSU - Премьера клипа" target="" pan="-10.93" skinid="ht_video_youtube"/>
+    <userdata author="" latitude="53.893222" title="Военный факультет" customnodeid="" tags="outdoors|pano" description="" heading="200" source="" info="" comment="" datetime="" copyright="" nodeid="node17" altitude="221.60" longitude="27.564603"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-198.95" title="Стадион" target="-2.0/-5.3/70.0" id="Point01" description="" tilt="-0.08" skinid="ht_node" url="{node18}" distance="172.743"/>
+      <hotspot pan="-356.41" title="4-й этаж" target="116.4/-1.7/70.0" id="Point02" description="" tilt="0.93" skinid="ht_node" url="{node2}" distance="36.4937"/>
+      <hotspot pan="-10.77" title="История" target="" id="history_info" description="Военный факультет Белорусского государственного университета был создан на базе военной кафедры БГУ, образованной 4 ноября 1926 года по приказу Революционного военного совета СССР. В 1926-1931 годах здесь преподавал будущий четырежды Герой Советского Союза Маршал Советского Союза Георгий Константинович Жуков, служивший в то время в Белорусском военном округе. Также на военной кафедре БГУ проходили в свое время службу Герои Советского Союза генерал-майор Александр Кирсанов и полковник Алексей Патрин. С началом Великой Отечественной войны занятия на военной кафедре БГУ были приостановлены. Возобновились они в 1943 году.&#xa;За время своего существования – до 2003 года – военная кафедра подготовила тысячи офицеров запаса по 13 военно-учетным специальностям.&#xa;Здесь служили и служат (уже на военном факультете БГУ) офицеры, выполнявшие интернациональный долг и награжденные орденами и медалями СССР, Республики Беларусь и других стран.&#xa; &#xa;В соответствии с Постановлением Совета Министров Республики Беларусь № 775 от 11 июня 2003 года военная кафедра была реорганизована в военный факультет БГУ, который  по сей день готовит лучшие военные кадры страны. " tilt="13.16" skinid="ht_info" url=""/>
+      <hotspot pan="-342.19" title="Курсант БГУ" target="" id="video" description="" tilt="0.79" skinid="ht_video_youtube" url="3u08zGug5v8"/>
+      <hotspot pan="-10.93" title="BSU - Премьера клипа" target="" id="Point03" description="" tilt="1.79" skinid="ht_video_youtube" url="pWHAwEO7zcA"/>
+      <hotspot pan="-342.12" title="TikTok военного факультета" target="_blank" id="Point04" description="" tilt="7.37" skinid="ht_url" url="https://www.tiktok.com/@bsumf?_t=8ah0jNtqwnG&amp;_r=1"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node2">
-    <input overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node2" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="292" fovmode="0">
-      <start fov="70" tilt="-0.177908" projection="4" pan="-0.3031"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="292">
+      <start pan="-0.3031" fov="70" tilt="-0.177908" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="4floor|mainbuilding|pano" latitude="53.892919" altitude="224.50" comment="" nodeid="node2" datetime="" copyright="" source="" author="" info="" customnodeid="" description="" title="4-й этаж" heading="292" longitude="27.564389"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-4.12" distance="224.409" description="" url="{node14}" id="Point01" title="5-й этаж, холл" target="-1.3/-4.0/70.0" pan="-243.71" skinid="ht_node"/>
-      <hotspot tilt="-4.36" distance="36.4937" description="" url="{node17}" id="Point02" title="Военный факультет" target="161.2/4.4/70.0" pan="-117.8" skinid="ht_node"/>
+    <userdata author="" latitude="53.892919" title="4-й этаж" customnodeid="" tags="4floor|mainbuilding|pano" description="" heading="292" source="" info="" comment="" datetime="" copyright="" nodeid="node2" altitude="224.50" longitude="27.564389"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-243.71" title="5-й этаж, холл" target="-1.3/-4.0/70.0" id="Point01" description="" tilt="-4.12" skinid="ht_node" url="{node14}" distance="224.409"/>
+      <hotspot pan="-117.8" title="Военный факультет" target="161.2/4.4/70.0" id="Point02" description="" tilt="-4.36" skinid="ht_node" url="{node17}" distance="36.4937"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node14">
-    <input overlap="1" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node14" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="27" fovmode="0">
-      <start fov="70" tilt="-2.664" projection="4" pan="-1.57847"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="27">
+      <start pan="-1.57847" fov="70" tilt="-2.664" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="5floor|mainbuilding|pano" latitude="53.891600" altitude="256.20" comment="" nodeid="node14" datetime="" copyright="" source="" author="" info="" customnodeid="" description="" title="5-й этаж, холл" heading="27" longitude="27.566981"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-1.75" distance="224.409" description="" url="{node2}" id="Point01" title="4-й этаж" target="-118.9/-3.8/70.0" pan="-181.21" skinid="ht_node"/>
-      <hotspot tilt="-3.02" distance="219.775" description="" url="{node15}" id="Point02" title="5-й этаж, холл" target="0.9/-3.0/70.0" pan="-1.38" skinid="ht_node"/>
-      <hotspot tilt="-3.06" distance="212.25" description="" url="{node8}" id="Point05" title="Класс огневой подготовки" target="68.6/-8.9/70.0" pan="-303.27" skinid="ht_node"/>
-      <hotspot tilt="-4" distance="200.654" description="" url="{node10}" id="Point06" title="Класс топографов" target="-9.9/-1.3/70.0" pan="-56.98" skinid="ht_node"/>
-      <hotspot tilt="-0.86" distance="204.59" description="" url="{node40}" id="Point03" title="Класс РХБЗ" target="$fwd" pan="122.659" skinid="ht_node"/>
-      <hotspot tilt="-15" distance="209.461" description="" url="{node6}" id="Point04" title="Класс РХБЗ" target="" pan="-122.83" skinid="ht_node"/>
+    <userdata author="" latitude="53.891600" title="5-й этаж, холл" customnodeid="" tags="5floor|mainbuilding|pano" description="" heading="27" source="" info="" comment="" datetime="" copyright="" nodeid="node14" altitude="256.20" longitude="27.566981"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-181.21" title="4-й этаж" target="-118.9/-3.8/70.0" id="Point01" description="" tilt="-1.75" skinid="ht_node" url="{node2}" distance="224.409"/>
+      <hotspot pan="-1.38" title="5-й этаж, холл" target="0.9/-3.0/70.0" id="Point02" description="" tilt="-3.02" skinid="ht_node" url="{node15}" distance="219.775"/>
+      <hotspot pan="-303.27" title="Класс огневой подготовки" target="68.6/-8.9/70.0" id="Point05" description="" tilt="-3.06" skinid="ht_node" url="{node8}" distance="212.25"/>
+      <hotspot pan="-56.98" title="Класс топографов" target="-9.9/-1.3/70.0" id="Point06" description="" tilt="-4" skinid="ht_node" url="{node10}" distance="200.654"/>
+      <hotspot pan="122.659" title="Класс РХБЗ" target="$fwd" id="Point03" description="" tilt="-0.86" skinid="ht_node" url="{node40}" distance="204.59"/>
+      <hotspot pan="-122.83" title="Класс РХБЗ" target="" id="Point04" description="" tilt="-15" skinid="ht_node" url="{node6}" distance="209.461"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node5">
-    <input overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="-0.828552" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="1.95972" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node5" hideabout="1">
+    <input levelingpitch="1.95972" width="2176" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="-0.828552">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="41" fovmode="0">
-      <start fov="70" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="41">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="5floor|mainbuilding|pano" latitude="53.89227975" comment="" nodeid="node5" datetime="" copyright="" source="" author="" info="" customnodeid="" description="" title="Класс РХБЗ" heading="41" longitude="27.56394936"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-6.09" distance="10.0619" description="" url="{node40}" id="Point01" title="Класс РХБЗ" target="" pan="-52.21" skinid="ht_node"/>
+    <userdata author="" latitude="53.89227975" title="Класс РХБЗ" customnodeid="" tags="5floor|mainbuilding|pano" description="" heading="41" source="" info="" comment="" datetime="" copyright="" nodeid="node5" longitude="27.56394936"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-52.21" title="Класс РХБЗ" target="" id="Point01" description="" tilt="-6.09" skinid="ht_node" url="{node40}" distance="10.0619"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node7">
-    <input overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node7" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="130" fovmode="0">
-      <start fov="58.3018" tilt="1.19368" projection="4" pan="-5.71602"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="130">
+      <start pan="-5.71602" fov="58.3018" tilt="1.19368" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="5floor|mainbuilding|pano" latitude="53.892292" altitude="224.50" comment="" nodeid="node7" datetime="" copyright="" source="" author="" info="" customnodeid="" description="" title="Класс РХБЗ" heading="130" longitude="27.564008"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-3.32" description="" url="{node6}" id="Point02" title="Класс РХБЗ" target="39.7/10.1/70.0" pan="-4.46" skinid="ht_node"/>
+    <userdata author="" latitude="53.892292" title="Класс РХБЗ" customnodeid="" tags="5floor|mainbuilding|pano" description="" heading="130" source="" info="" comment="" datetime="" copyright="" nodeid="node7" altitude="224.50" longitude="27.564008"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-4.46" title="Класс РХБЗ" target="39.7/10.1/70.0" id="Point02" description="" tilt="-3.32" skinid="ht_node" url="{node6}"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node6">
-    <input overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node6" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="166" fovmode="0">
-      <start fov="70" tilt="0" projection="4" pan="3.99"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="166">
+      <start pan="3.99" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="5floor|mainbuilding|pano" latitude="53.892292" altitude="224.50" comment="" nodeid="node6" datetime="" copyright="" source="" author="" info="" customnodeid="" description="" title="Класс РХБЗ" heading="166" longitude="27.564008"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="0.62" distance="209.461" description="" url="{node14}" id="Point01" title="5-й этаж, холл" target="9.1/-4.1/70.0" pan="-280.04" skinid="ht_node"/>
-      <hotspot tilt="-1.54" description="" url="{node7}" id="Point02" title="Класс РХБЗ" target="1.4/-1.0/70.0" pan="-110.05" skinid="ht_node"/>
+    <userdata author="" latitude="53.892292" title="Класс РХБЗ" customnodeid="" tags="5floor|mainbuilding|pano" description="" heading="166" source="" info="" comment="" datetime="" copyright="" nodeid="node6" altitude="224.50" longitude="27.564008"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-280.04" title="5-й этаж, холл" target="9.1/-4.1/70.0" id="Point01" description="" tilt="0.62" skinid="ht_node" url="{node14}" distance="209.461"/>
+      <hotspot pan="-110.05" title="Класс РХБЗ" target="1.4/-1.0/70.0" id="Point02" description="" tilt="-1.54" skinid="ht_node" url="{node7}"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node15">
-    <input overlap="1" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node15" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="32" fovmode="0">
-      <start fov="70" tilt="-1.86808" projection="4" pan="0.87959"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="32">
+      <start pan="0.87959" fov="70" tilt="-1.86808" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="5floor|mainbuilding|pano" latitude="53.892939" altitude="221.60" comment="" nodeid="node15" datetime="" copyright="" source="" author="" info="" customnodeid="" description="" title="5-й этаж, холл" heading="32" longitude="27.564514"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-2.3" distance="219.775" description="" url="{node14}" id="Point01" title="5-й этаж, холл" target="177.5/-1.2/70.0" pan="-180.1" skinid="ht_node"/>
-      <hotspot tilt="-6.12" distance="219.775" description="" url="{node13}" id="Point02" title="Класс ПВО" target="-48.0/0.2/70.0" pan="-55.04" skinid="ht_node"/>
-      <hotspot tilt="-9.24" distance="72.0425" description="" url="{node11}" id="Point03" title="Класс тактической подготовки" target="18.7/-0.7/70.0" pan="-294.81" skinid="ht_node"/>
+    <userdata author="" latitude="53.892939" title="5-й этаж, холл" customnodeid="" tags="5floor|mainbuilding|pano" description="" heading="32" source="" info="" comment="" datetime="" copyright="" nodeid="node15" altitude="221.60" longitude="27.564514"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-180.1" title="5-й этаж, холл" target="177.5/-1.2/70.0" id="Point01" description="" tilt="-2.3" skinid="ht_node" url="{node14}" distance="219.775"/>
+      <hotspot pan="-55.04" title="Класс ПВО" target="-48.0/0.2/70.0" id="Point02" description="" tilt="-6.12" skinid="ht_node" url="{node13}" distance="219.775"/>
+      <hotspot pan="-294.81" title="Класс тактической подготовки" target="18.7/-0.7/70.0" id="Point03" description="" tilt="-9.24" skinid="ht_node" url="{node11}" distance="72.0425"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node8">
-    <input overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node8" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="119" fovmode="0">
-      <start fov="70" tilt="-5.51525" projection="4" pan="37.9448"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="119">
+      <start pan="37.9448" fov="70" tilt="-5.51525" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="5floor|mainbuilding|pano" latitude="53.892783" altitude="219.80" comment="" nodeid="node8" datetime="" copyright="" source="" author="" info="" customnodeid="" description="" title="Класс огневой подготовки" heading="119" longitude="27.564439"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-7.75" distance="212.25" description="" url="{node14}" id="Point01" title="5-й этаж, холл" target="" pan="-228.57" skinid="ht_node"/>
-      <hotspot tilt="-1.16" description="" url="{node9}" id="Point02" title="Класс огневой подготовки" target="143.4/-3.4/70.0" pan="-293.07" skinid="ht_node"/>
-      <hotspot tilt="-20.64" description="7,62-ММ ПУЛЕМЕТ  КАЛАШНИКОВА МОДЕРНИЗИРОВАНННЫЙ&#xa;Пулемет ПКМ предназначен для уничтожения живой силы и огневых средств противника. &#xa;ОСНОВНЫЕ ТАКТИКО-ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ:&#xa;Калибр, мм&#x9;7,62&#xa;Прицельная дальность, м&#x9;1500&#xa;Дальность прямого выстрела, м&#x9;&#xa;- по грудной фигуре&#x9;420&#xa;- по бегущей фигуре&#x9;640&#xa;Темп стрельбы, выстр/мин.&#x9;650&#xa;Боевая скорострельность, в/м&#x9;до 250&#xa;Начальная скорость пули, м/с&#x9;825&#xa;Дальность убойной силы, м&#x9;3800&#xa;Вес пулемета, кг&#x9;7,5&#xa;Масса ствола, кг&#x9;2.4&#xa;Емкость магазина&#x9;100,200,250&#xa;Масса коробки со снаряженной&#x9;&#xa;Лентой, кг&#x9;&#xa;-100, 200, 250 патронов&#x9;3,9; 8; 9,4&#xa;Число нарезов&#x9;4&#xa;Допустимое ведение непрерывного огня, выстр.&#x9;500" url="" id="Point03" title="ПКМ" target="" pan="-229.38" skinid="ht_info"/>
-      <hotspot tilt="-21.84" description="" url="images/pkm.png" id="Point04" title="Общее устройство" target="" pan="-236.86" skinid="ht_image"/>
-      <hotspot tilt="-20.67" description="РУЧНОЙ ПРОТИВОТАНКОВЫЙ ГРАНАТОМЕТ РПГ-7В&#xa;&#xa;Гранатомёт предназначен для борьбы с танками, боевыми машинами пехоты, бронетранспортёрами, самоходными артиллерийскими установками и другими бронированными объектами противника. Кроме того, он может быть использован для уничтожения живой силы противника, находящегося в укрытиях, а также в сооружениях городского типа. Стрельба из гранатомёта производится выстрелами с надкалиберной противотанковой гранатой кумулятивного действия.&#xa;&#xa;ОСНОВНЫЕ ТАКТИКО-ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ:&#xa;&#xa;Калибр, мм&#x9;40&#xa;Калибр гранаты ПГ-7В, мм&#x9;85&#xa;Боевая скорострельность в/мин&#x9;4-6&#xa;Нач. скорость гранаты ПГ-7В м/сек&#x9;120&#xa;Макс. скорость м/с&#x9;300&#xa;Вес гранаты с пороховым зарядом ПГ-7В, кг&#x9;2,2&#xa; Прицельная дальность стрельбы, м&#x9; 500&#xa;ДПВ по цели высотой 2м, м (эффективн.)&#x9;330&#xa;Масса гранатомёта, кг&#x9;6,3&#xa;Бронепробиваемость, мм&#x9;325&#xa;&#xa;Применяемые выстрелы: &#xa;ПГ-7В, ПГ-7ВМ, ПГ-7ВС, ПГ-7ВЛ, ПГ-7ВР, ТБГ-7В" url="" id="Point05" title="РПГ-7В" target="" pan="-283.42" skinid="ht_info"/>
-      <hotspot tilt="-19.61" description="" url="images/rpg.png" id="Point06" title="Общее устройство" target="" pan="-290.67" skinid="ht_image"/>
-      <hotspot tilt="7.72" description="Данная аудитория предназначена для проведения занятий с курсантами и студентами по изучению учебных дисциплин «Огневая подготовка», «Подготовка по связи». При изучении учебной дисциплины «Огневая подготовка» в аудитории изучаются следующие образцы вооружения:&#xa;9-мм пистолета Макарова (ПМ), 5,45-мм автомат Калашникова &#xa;(АК-74), 5,45-мм ручной пулемет Калашникова (РПК-74), ручные осколочные и реактивные противотанковые гранаты, ручной противотанковый гранатомет РПГ-7В и выстрелы к нему, 7,62 мм пулемет ПКМ (ПКТ),40-мм подствольный гранатомет ГП-25 и выстрел ВОГ-25, 7.62-мм снайперская винтовка Драгунова (СВД), автоматический гранатомёт на станке (АГС-17), 30-мм автоматическая пушка 2А42. " url="" id="Point07" title="Информация" target="" pan="-322" skinid="ht_info"/>
-      <hotspot tilt="2.15" description="" url="images/pm-shema-rozborki-pistolet.jpg" id="Point08" title="Информация" target="" pan="-136.67" skinid="ht_image"/>
-      <hotspot tilt="1.31" description="" url="images/Machine_guns_7,62mm_PKM_502851_3840x2400.jpg" id="Point09" title="Информация" target="" pan="-174.8" skinid="ht_image"/>
-      <hotspot tilt="1.57" description="" url="images/rpg-7-skhema-granatomiot.jpg" id="Point10" title="Информация" target="" pan="-209.07" skinid="ht_image"/>
-      <hotspot tilt="1.64" description="" url="images/2_24.jpg" id="Point11" title="Информация" target="" pan="-246.36" skinid="ht_image"/>
-      <hotspot tilt="1.37" description="" url="images/gp-25-granatomiot-podstvolnik-podstvolnyi-granatomiot.jpg" id="Point12" title="Информация" target="" pan="-261.53" skinid="ht_image"/>
-      <hotspot tilt="1.68" description="" url="images/vintovka-dragunova33.jpg" id="Point13" title="Информация" target="" pan="-276.84" skinid="ht_image"/>
-      <hotspot tilt="1.88" description="" url="images/rgd-granaty-skhema-f-1-rgn-rgo.jpg" id="Point14" title="Информация" target="" pan="-289.95" skinid="ht_image"/>
+    <userdata author="" latitude="53.892783" title="Класс огневой подготовки" customnodeid="" tags="5floor|mainbuilding|pano" description="" heading="119" source="" info="" comment="" datetime="" copyright="" nodeid="node8" altitude="219.80" longitude="27.564439"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-228.57" title="5-й этаж, холл" target="" id="Point01" description="" tilt="-7.75" skinid="ht_node" url="{node14}" distance="212.25"/>
+      <hotspot pan="-293.07" title="Класс огневой подготовки" target="143.4/-3.4/70.0" id="Point02" description="" tilt="-1.16" skinid="ht_node" url="{node9}"/>
+      <hotspot pan="-229.38" title="ПКМ" target="" id="Point03" description="7,62-ММ ПУЛЕМЕТ  КАЛАШНИКОВА МОДЕРНИЗИРОВАНННЫЙ&#xa;Пулемет ПКМ предназначен для уничтожения живой силы и огневых средств противника. &#xa;ОСНОВНЫЕ ТАКТИКО-ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ:&#xa;Калибр, мм&#x9;7,62&#xa;Прицельная дальность, м&#x9;1500&#xa;Дальность прямого выстрела, м&#x9;&#xa;- по грудной фигуре&#x9;420&#xa;- по бегущей фигуре&#x9;640&#xa;Темп стрельбы, выстр/мин.&#x9;650&#xa;Боевая скорострельность, в/м&#x9;до 250&#xa;Начальная скорость пули, м/с&#x9;825&#xa;Дальность убойной силы, м&#x9;3800&#xa;Вес пулемета, кг&#x9;7,5&#xa;Масса ствола, кг&#x9;2.4&#xa;Емкость магазина&#x9;100,200,250&#xa;Масса коробки со снаряженной&#x9;&#xa;Лентой, кг&#x9;&#xa;-100, 200, 250 патронов&#x9;3,9; 8; 9,4&#xa;Число нарезов&#x9;4&#xa;Допустимое ведение непрерывного огня, выстр.&#x9;500" tilt="-20.64" skinid="ht_info" url=""/>
+      <hotspot pan="-236.86" title="Общее устройство" target="" id="Point04" description="" tilt="-21.84" skinid="ht_image" url="images/pkm.png"/>
+      <hotspot pan="-283.42" title="РПГ-7В" target="" id="Point05" description="РУЧНОЙ ПРОТИВОТАНКОВЫЙ ГРАНАТОМЕТ РПГ-7В&#xa;&#xa;Гранатомёт предназначен для борьбы с танками, боевыми машинами пехоты, бронетранспортёрами, самоходными артиллерийскими установками и другими бронированными объектами противника. Кроме того, он может быть использован для уничтожения живой силы противника, находящегося в укрытиях, а также в сооружениях городского типа. Стрельба из гранатомёта производится выстрелами с надкалиберной противотанковой гранатой кумулятивного действия.&#xa;&#xa;ОСНОВНЫЕ ТАКТИКО-ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ:&#xa;&#xa;Калибр, мм&#x9;40&#xa;Калибр гранаты ПГ-7В, мм&#x9;85&#xa;Боевая скорострельность в/мин&#x9;4-6&#xa;Нач. скорость гранаты ПГ-7В м/сек&#x9;120&#xa;Макс. скорость м/с&#x9;300&#xa;Вес гранаты с пороховым зарядом ПГ-7В, кг&#x9;2,2&#xa; Прицельная дальность стрельбы, м&#x9; 500&#xa;ДПВ по цели высотой 2м, м (эффективн.)&#x9;330&#xa;Масса гранатомёта, кг&#x9;6,3&#xa;Бронепробиваемость, мм&#x9;325&#xa;&#xa;Применяемые выстрелы: &#xa;ПГ-7В, ПГ-7ВМ, ПГ-7ВС, ПГ-7ВЛ, ПГ-7ВР, ТБГ-7В" tilt="-20.67" skinid="ht_info" url=""/>
+      <hotspot pan="-290.67" title="Общее устройство" target="" id="Point06" description="" tilt="-19.61" skinid="ht_image" url="images/rpg.png"/>
+      <hotspot pan="-322" title="Информация" target="" id="Point07" description="Данная аудитория предназначена для проведения занятий с курсантами и студентами по изучению учебных дисциплин «Огневая подготовка», «Подготовка по связи». При изучении учебной дисциплины «Огневая подготовка» в аудитории изучаются следующие образцы вооружения:&#xa;9-мм пистолета Макарова (ПМ), 5,45-мм автомат Калашникова &#xa;(АК-74), 5,45-мм ручной пулемет Калашникова (РПК-74), ручные осколочные и реактивные противотанковые гранаты, ручной противотанковый гранатомет РПГ-7В и выстрелы к нему, 7,62 мм пулемет ПКМ (ПКТ),40-мм подствольный гранатомет ГП-25 и выстрел ВОГ-25, 7.62-мм снайперская винтовка Драгунова (СВД), автоматический гранатомёт на станке (АГС-17), 30-мм автоматическая пушка 2А42. " tilt="7.72" skinid="ht_info" url=""/>
+      <hotspot pan="-136.67" title="Информация" target="" id="Point08" description="" tilt="2.15" skinid="ht_image" url="images/pm-shema-rozborki-pistolet.jpg"/>
+      <hotspot pan="-174.8" title="Информация" target="" id="Point09" description="" tilt="1.31" skinid="ht_image" url="images/Machine_guns_7,62mm_PKM_502851_3840x2400.jpg"/>
+      <hotspot pan="-209.07" title="Информация" target="" id="Point10" description="" tilt="1.57" skinid="ht_image" url="images/rpg-7-skhema-granatomiot.jpg"/>
+      <hotspot pan="-246.36" title="Информация" target="" id="Point11" description="" tilt="1.64" skinid="ht_image" url="images/2_24.jpg"/>
+      <hotspot pan="-261.53" title="Информация" target="" id="Point12" description="" tilt="1.37" skinid="ht_image" url="images/gp-25-granatomiot-podstvolnik-podstvolnyi-granatomiot.jpg"/>
+      <hotspot pan="-276.84" title="Информация" target="" id="Point13" description="" tilt="1.68" skinid="ht_image" url="images/vintovka-dragunova33.jpg"/>
+      <hotspot pan="-289.95" title="Информация" target="" id="Point14" description="" tilt="1.88" skinid="ht_image" url="images/rgd-granaty-skhema-f-1-rgn-rgo.jpg"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node9">
-    <input overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node9" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="205" fovmode="0">
-      <start fov="70" tilt="-2.62315" projection="4" pan="-6.59882"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="205">
+      <start pan="-6.59882" fov="70" tilt="-2.62315" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="5floor|mainbuilding|pano" latitude="53.892783" altitude="219.80" comment="" nodeid="node9" datetime="" copyright="" source="" author="" info="" customnodeid="" description="" title="Класс огневой подготовки" heading="205" longitude="27.564439"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-2.3" description="" url="{node8}" id="Point01" title="Класс огневой подготовки" target="-138.6/-2.4/70.0" pan="-21.19" skinid="ht_node"/>
-      <hotspot tilt="0.3" distance="212.25" description="" url="{node14}" id="Point02" title="5-й этаж, холл" target="" pan="-83.06" skinid="ht_node"/>
-      <hotspot tilt="5.78" description="" url="images/rgd-granaty-skhema-f-1-rgn-rgo.jpg" id="Point03" title="Информация" target="" pan="-186.53" skinid="ht_image"/>
-      <hotspot tilt="6.38" description="" url="images/vintovka-dragunova33.jpg" id="Point04" title="Информация" target="" pan="-149.58" skinid="ht_image"/>
-      <hotspot tilt="4.98" description="" url="images/gp-25-granatomiot-podstvolnik-podstvolnyi-granatomiot.jpg" id="Point05" title="Информация" target="" pan="-123.92" skinid="ht_image"/>
-      <hotspot tilt="3.31" description="" url="images/2_24.jpg" id="Point06" title="Информация" target="" pan="-105.58" skinid="ht_image"/>
-      <hotspot tilt="2.17" description="" url="images/rpg-7-skhema-granatomiot.jpg" id="Point07" title="Информация" target="" pan="-57.85" skinid="ht_image"/>
-      <hotspot tilt="2.02" description="" url="images/Machine_guns_7,62mm_PKM_502851_3840x2400.jpg" id="Point08" title="Информация" target="" pan="-39.9" skinid="ht_image"/>
-      <hotspot tilt="3.37" description="" url="images/pm-shema-rozborki-pistolet.jpg" id="Point09" title="Информация" target="" pan="-25.18" skinid="ht_image"/>
+    <userdata author="" latitude="53.892783" title="Класс огневой подготовки" customnodeid="" tags="5floor|mainbuilding|pano" description="" heading="205" source="" info="" comment="" datetime="" copyright="" nodeid="node9" altitude="219.80" longitude="27.564439"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-21.19" title="Класс огневой подготовки" target="-138.6/-2.4/70.0" id="Point01" description="" tilt="-2.3" skinid="ht_node" url="{node8}"/>
+      <hotspot pan="-83.06" title="5-й этаж, холл" target="" id="Point02" description="" tilt="0.3" skinid="ht_node" url="{node14}" distance="212.25"/>
+      <hotspot pan="-186.53" title="Информация" target="" id="Point03" description="" tilt="5.78" skinid="ht_image" url="images/rgd-granaty-skhema-f-1-rgn-rgo.jpg"/>
+      <hotspot pan="-149.58" title="Информация" target="" id="Point04" description="" tilt="6.38" skinid="ht_image" url="images/vintovka-dragunova33.jpg"/>
+      <hotspot pan="-123.92" title="Информация" target="" id="Point05" description="" tilt="4.98" skinid="ht_image" url="images/gp-25-granatomiot-podstvolnik-podstvolnyi-granatomiot.jpg"/>
+      <hotspot pan="-105.58" title="Информация" target="" id="Point06" description="" tilt="3.31" skinid="ht_image" url="images/2_24.jpg"/>
+      <hotspot pan="-57.85" title="Информация" target="" id="Point07" description="" tilt="2.17" skinid="ht_image" url="images/rpg-7-skhema-granatomiot.jpg"/>
+      <hotspot pan="-39.9" title="Информация" target="" id="Point08" description="" tilt="2.02" skinid="ht_image" url="images/Machine_guns_7,62mm_PKM_502851_3840x2400.jpg"/>
+      <hotspot pan="-25.18" title="Информация" target="" id="Point09" description="" tilt="3.37" skinid="ht_image" url="images/pm-shema-rozborki-pistolet.jpg"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node10">
-    <input overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node10" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="301" fovmode="0">
-      <start fov="70" tilt="-5.62459" projection="4" pan="5.49349"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="301">
+      <start pan="5.49349" fov="70" tilt="-5.62459" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="5floor|mainbuilding|pano" latitude="53.892292" altitude="224.50" comment="" nodeid="node10" datetime="" copyright="" source="" author="" info="" customnodeid="" description="" title="Класс топографов" heading="301" longitude="27.564153"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-7.02" distance="200.654" description="" url="{node14}" id="Point01" title="5-й этаж, холл" target="" pan="-108.24" skinid="ht_node"/>
-      <hotspot tilt="2.39" description="Комплект геодезической спутниковой аппаратуры КГСА предназначен для определения точных координат геодезических пунктов, привязки элементов боевых порядков войск, выполнения топографических съемок и землеустроительных работ, решения прикладных геодезических задач.&#xa;&#xa;" url="" id="Point02" title="Комплект геодезической спутниковой аппаратуры КГСА" target="" pan="-73.7" skinid="ht_info"/>
+    <userdata author="" latitude="53.892292" title="Класс топографов" customnodeid="" tags="5floor|mainbuilding|pano" description="" heading="301" source="" info="" comment="" datetime="" copyright="" nodeid="node10" altitude="224.50" longitude="27.564153"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-108.24" title="5-й этаж, холл" target="" id="Point01" description="" tilt="-7.02" skinid="ht_node" url="{node14}" distance="200.654"/>
+      <hotspot pan="-73.7" title="Комплект геодезической спутниковой аппаратуры КГСА" target="" id="Point02" description="Комплект геодезической спутниковой аппаратуры КГСА предназначен для определения точных координат геодезических пунктов, привязки элементов боевых порядков войск, выполнения топографических съемок и землеустроительных работ, решения прикладных геодезических задач.&#xa;&#xa;" tilt="2.39" skinid="ht_info" url=""/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node11">
-    <input overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node11" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="2" fovmode="0">
-      <start fov="70" tilt="0" projection="4" pan="3.99"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="2">
+      <start pan="3.99" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="5floor|mainbuilding|pano" latitude="53.892350" comment="" nodeid="node11" datetime="" copyright="" source="" author="" info="" customnodeid="" description="" title="Класс тактической подготовки" heading="2" longitude="27.564056"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-0.67" distance="72.0425" description="" url="{node15}" id="Point01" title="5-й этаж, холл" target="" pan="-106.81" skinid="ht_node"/>
+    <userdata author="" latitude="53.892350" title="Класс тактической подготовки" customnodeid="" tags="5floor|mainbuilding|pano" description="" heading="2" source="" info="" comment="" datetime="" copyright="" nodeid="node11" longitude="27.564056"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-106.81" title="5-й этаж, холл" target="" id="Point01" description="" tilt="-0.67" skinid="ht_node" url="{node15}" distance="72.0425"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node13">
-    <input overlap="1" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2304" levelingpitch="0" levelbiashidpi="1.000" height="2304">
-      <level width="2304" height="2304" preload="0" predecode="0"/>
-      <level width="1152" height="1152" preload="0" predecode="0"/>
-      <level width="576" height="576" preload="0" predecode="0"/>
-      <level width="288" height="288" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node13" hideabout="1">
+    <input levelingpitch="0" width="2304" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2304" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2304" height="2304" predecode="0" preload="0"/>
+      <level width="1152" height="1152" predecode="0" preload="0"/>
+      <level width="576" height="576" predecode="0" preload="0"/>
+      <level width="288" height="288" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="57" fovmode="0">
-      <start fov="70" tilt="0" projection="4" pan="3.99"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="57">
+      <start pan="3.99" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="5floor|mainbuilding|pano" latitude="53.891600" altitude="256.20" comment="" nodeid="node13" datetime="" copyright="" source="" author="" info="" customnodeid="" description="" title="Класс ПВО" heading="57" longitude="27.566981"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-0.11" distance="219.775" description="" url="{node15}" id="Point01" title="5-й этаж, холл" target="" pan="-262.96" skinid="ht_node"/>
+    <userdata author="" latitude="53.891600" title="Класс ПВО" customnodeid="" tags="5floor|mainbuilding|pano" description="" heading="57" source="" info="" comment="" datetime="" copyright="" nodeid="node13" altitude="256.20" longitude="27.566981"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-262.96" title="5-й этаж, холл" target="" id="Point01" description="" tilt="-0.11" skinid="ht_node" url="{node15}" distance="219.775"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node18">
-    <input overlap="1" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node18" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="200" fovmode="0">
-      <start fov="70" tilt="-11.3435" projection="4" pan="3.99"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="200">
+      <start pan="3.99" fov="70" tilt="-11.3435" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="outdoors|pano" latitude="53.891811" altitude="236.90" comment="" nodeid="node18" datetime="" copyright="" source="" author="" info="" customnodeid="" description="" title="Стадион" heading="200" longitude="27.565706"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-1.95" distance="172.743" description="" url="{node17}" id="Point01" title="Военный факультет" target="3.9/13.5/70.0" pan="-122.56" skinid="ht_node"/>
-      <hotspot tilt="-2.53" distance="60.1039" description="" url="{node19}" id="Point02" title="Тренажеры" target="-8.8/7.6/70.0" pan="-80.02" skinid="ht_node"/>
-      <hotspot tilt="-1.68" distance="105.82" description="" url="{node20}" id="Point03" title="Вход в общежитие" target="10.1/3.4/70.0" pan="-243.89" skinid="ht_node"/>
-      <hotspot tilt="0" distance="15.3619" description="" url="{node36}" id="Point04" title="Тренажёрный зал" target="$fwd" pan="182.752" skinid="ht_node"/>
+    <userdata author="" latitude="53.891811" title="Стадион" customnodeid="" tags="outdoors|pano" description="" heading="200" source="" info="" comment="" datetime="" copyright="" nodeid="node18" altitude="236.90" longitude="27.565706"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-122.56" title="Военный факультет" target="3.9/13.5/70.0" id="Point01" description="" tilt="-1.95" skinid="ht_node" url="{node17}" distance="172.743"/>
+      <hotspot pan="-80.02" title="Тренажеры" target="-8.8/7.6/70.0" id="Point02" description="" tilt="-2.53" skinid="ht_node" url="{node19}" distance="60.1039"/>
+      <hotspot pan="-243.89" title="Вход в общежитие" target="10.1/3.4/70.0" id="Point03" description="" tilt="-1.68" skinid="ht_node" url="{node20}" distance="105.82"/>
+      <hotspot pan="182.752" title="Тренажёрный зал" target="$fwd" id="Point04" description="" tilt="0" skinid="ht_node" url="{node36}" distance="15.3619"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node19">
-    <input overlap="1" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node19" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="248" fovmode="0">
-      <start fov="70" tilt="-6.7763" projection="4" pan="3.99"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="248">
+      <start pan="3.99" fov="70" tilt="-6.7763" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="outdoors|pano" latitude="53.89199853" altitude="225.20" comment="" nodeid="node19" datetime="" copyright="" source="" author="" info="" customnodeid="" description="" title="Тренажеры" heading="248" longitude="27.56484575"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="3.2" distance="60.1039" description="" url="{node18}" id="Point01" title="Стадион" target="116.4/1.8/70.0" pan="-207.47" skinid="ht_node"/>
+    <userdata author="" latitude="53.89199853" title="Тренажеры" customnodeid="" tags="outdoors|pano" description="" heading="248" source="" info="" comment="" datetime="" copyright="" nodeid="node19" altitude="225.20" longitude="27.56484575"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-207.47" title="Стадион" target="116.4/1.8/70.0" id="Point01" description="" tilt="3.2" skinid="ht_node" url="{node18}" distance="60.1039"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node20">
-    <input overlap="1" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node20" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="96" fovmode="0">
-      <start fov="70" tilt="-3.84524" projection="4" pan="3.99"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="96">
+      <start pan="3.99" fov="70" tilt="-3.84524" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="outdoors|pano" latitude="53.89107542" altitude="218.90" comment="" nodeid="node20" datetime="" copyright="" source="" author="" info="" customnodeid="" description="" title="Вход в общежитие" heading="96" longitude="27.56673059"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="0.36" distance="105.82" description="" url="{node18}" id="Point01" title="Стадион" target="-114.2/-0.1/70.0" pan="-279.15" skinid="ht_node"/>
-      <hotspot tilt="2.19" distance="17.2026" description="" url="{node21}" id="Point02" title="Холл общежития" target="-176.9/-0.3/70.0" pan="-349.47" skinid="ht_node"/>
-      <hotspot tilt="0" distance="70.669" description="" url="{node37}" id="Point03" title="Столовая" target="$fwd" pan="-41.4436" skinid="ht_node"/>
-      <hotspot tilt="2.44" description="Курсанты военного факультета БГУ живут в общежитии №7 Белорусского Государственного университета.&#xa;Общежитие является общежитием блочного типа. Рядом с общежитием находится столовая." url="" id="Point04" title="Информация об общежитии" target="" pan="-358.67" skinid="ht_info"/>
+    <userdata author="" latitude="53.89107542" title="Вход в общежитие" customnodeid="" tags="outdoors|pano" description="" heading="96" source="" info="" comment="" datetime="" copyright="" nodeid="node20" altitude="218.90" longitude="27.56673059"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-279.15" title="Стадион" target="-114.2/-0.1/70.0" id="Point01" description="" tilt="0.36" skinid="ht_node" url="{node18}" distance="105.82"/>
+      <hotspot pan="-349.47" title="Холл общежития" target="-176.9/-0.3/70.0" id="Point02" description="" tilt="2.19" skinid="ht_node" url="{node21}" distance="17.2026"/>
+      <hotspot pan="-41.4436" title="Столовая" target="$fwd" id="Point03" description="" tilt="0" skinid="ht_node" url="{node37}" distance="70.669"/>
+      <hotspot pan="-358.67" title="Информация об общежитии" target="" id="Point04" description="Курсанты военного факультета БГУ живут в общежитии №7 Белорусского Государственного университета.&#xa;Общежитие является общежитием блочного типа. Рядом с общежитием находится столовая." tilt="2.44" skinid="ht_info" url=""/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node21">
-    <input overlap="1" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node21" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="173" fovmode="0">
-      <start fov="70" tilt="-0.874117" projection="4" pan="3.99"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="173">
+      <start pan="3.99" fov="70" tilt="-0.874117" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="dormitory|pano" latitude="53.89111951" altitude="218.50" comment="" nodeid="node21" datetime="" copyright="" source="" author="" info="" customnodeid="" description="" title="Холл общежития" heading="173" longitude="27.56698222"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-0.69" distance="35.3083" description="" url="{node23}" id="Point01" title="Блок" target="2.3/-8.0/70.0" pan="-176.93" skinid="ht_node"/>
-      <hotspot tilt="1.22" distance="17.2026" description="" url="{node20}" id="Point02" title="Вход в общежитие" target="78.3/1.8/70.0" pan="-271.42" skinid="ht_node"/>
+    <userdata author="" latitude="53.89111951" title="Холл общежития" customnodeid="" tags="dormitory|pano" description="" heading="173" source="" info="" comment="" datetime="" copyright="" nodeid="node21" altitude="218.50" longitude="27.56698222"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-176.93" title="Блок" target="2.3/-8.0/70.0" id="Point01" description="" tilt="-0.69" skinid="ht_node" url="{node23}" distance="35.3083"/>
+      <hotspot pan="-271.42" title="Вход в общежитие" target="78.3/1.8/70.0" id="Point02" description="" tilt="1.22" skinid="ht_node" url="{node20}" distance="17.2026"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node23">
-    <input overlap="1" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node23" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="87" fovmode="0">
-      <start fov="70" tilt="-11.1225" projection="4" pan="3.99"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="87">
+      <start pan="3.99" fov="70" tilt="-11.1225" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="dormitory|pano" latitude="53.891194" altitude="256.10" comment="" nodeid="node23" datetime="" copyright="" source="" author="" info="" customnodeid="" description="" title="Блок" heading="87" longitude="27.567506"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-5.13" distance="11.4826" description="" url="{node24}" id="Point01" title="Комната" target="176.1/1.7/70.0" pan="-359.72" skinid="ht_node"/>
-      <hotspot tilt="-4.28" distance="35.3083" description="" url="{node21}" id="Point02" title="Холл общежития" target="89.5/-2.9/70.0" pan="-207.77" skinid="ht_node"/>
+    <userdata author="" latitude="53.891194" title="Блок" customnodeid="" tags="dormitory|pano" description="" heading="87" source="" info="" comment="" datetime="" copyright="" nodeid="node23" altitude="256.10" longitude="27.567506"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-359.72" title="Комната" target="176.1/1.7/70.0" id="Point01" description="" tilt="-5.13" skinid="ht_node" url="{node24}" distance="11.4826"/>
+      <hotspot pan="-207.77" title="Холл общежития" target="89.5/-2.9/70.0" id="Point02" description="" tilt="-4.28" skinid="ht_node" url="{node21}" distance="35.3083"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node24">
-    <input overlap="1" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node24" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="286" fovmode="0">
-      <start fov="70" tilt="-2.51731" projection="4" pan="173.182"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="286">
+      <start pan="173.182" fov="70" tilt="-2.51731" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="dormitory|pano" latitude="53.891108" altitude="256.20" comment="" nodeid="node24" datetime="" copyright="" source="" author="" info="" customnodeid="" description="" title="Комната" heading="286" longitude="27.567603"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-1.13" distance="11.4826" description="" url="{node23}" id="Point01" title="Блок" target="147.9/0.3/70.0" pan="-339.37" skinid="ht_node"/>
+    <userdata author="" latitude="53.891108" title="Комната" customnodeid="" tags="dormitory|pano" description="" heading="286" source="" info="" comment="" datetime="" copyright="" nodeid="node24" altitude="256.20" longitude="27.567603"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-339.37" title="Блок" target="147.9/0.3/70.0" id="Point01" description="" tilt="-1.13" skinid="ht_node" url="{node23}" distance="11.4826"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node26">
-    <input overlap="1" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node26" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="37" fovmode="0">
-      <start fov="70" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="37">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="sources|storage" latitude="53.94318729" altitude="288.60" comment="" nodeid="node26" datetime="10.11.2020 11:16" copyright="" source="" author="" info="" customnodeid="" description="" title="Хранилище" heading="37" longitude="27.62670928"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="0" distance="41.7276" description="" url="{node27}" id="Point01" title="Стрела-10М2" target="$fwd" pan="1.93387" skinid="ht_node"/>
+    <userdata author="" latitude="53.94318729" title="Хранилище" customnodeid="" tags="sources|storage" description="" heading="37" source="" info="" comment="" datetime="10.11.2020 11:16" copyright="" nodeid="node26" altitude="288.60" longitude="27.62670928"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="1.93387" title="Стрела-10М2" target="$fwd" id="Point01" description="" tilt="0" skinid="ht_node" url="{node27}" distance="41.7276"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node27">
-    <input overlap="1" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node27" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="314" fovmode="0">
-      <start fov="70" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="314">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="sources|storage" latitude="53.94349444" altitude="248.10" comment="" nodeid="node27" datetime="10.11.2020 11:34" copyright="" source="" author="" info="" customnodeid="" description="" title="Стрела-10М2" heading="314" longitude="27.62707558"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="0" distance="41.7276" description="" url="{node26}" id="Point01" title="Хранилище" target="$fwd" pan="458.934" skinid="ht_node"/>
-      <hotspot tilt="-13.03" description="Зенитно-ракетный комплекс Стрела-10М2 предназначен для уничтожения визуально-наблюдаемых самолётов, вертолётов, крылатых ракет и других воздушных целей на высотах от 25 до 3000м, дальностях от 800 до 5000м и при курсовых параметрах до 3000м.&#xa;&#xa;&lt;a href=&quot;https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%B0-10&quot;>Википедия&lt;/a>" url="" id="S10M2-desc" title="Стрела-10М2" target="" pan="-346.15" skinid="ht_info"/>
-      <hotspot tilt="0" distance="8.47103" description="" url="{node33}" id="Point02" title="Стрела-10М2 сбоку" target="$fwd" pan="401.954" skinid="ht_node"/>
-      <hotspot tilt="-5.54" distance="3.17709" description="" url="{node29}" id="Point03" title="Экипаж Стрелы-10М2" target="$fwd" pan="-4.13" skinid="ht_node"/>
-      <hotspot tilt="-11.99" description="" url="https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%B0-10#9%D0%9A35%D0%9C2_%C2%AB%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%B0-10%D0%9C2%C2%BB" id="Point04" title="Стрела-10 на &quot;Википедии&quot;" target="_blank" pan="-25.7" skinid="ht_url"/>
+    <userdata author="" latitude="53.94349444" title="Стрела-10М2" customnodeid="" tags="sources|storage" description="" heading="314" source="" info="" comment="" datetime="10.11.2020 11:34" copyright="" nodeid="node27" altitude="248.10" longitude="27.62707558"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="458.934" title="Хранилище" target="$fwd" id="Point01" description="" tilt="0" skinid="ht_node" url="{node26}" distance="41.7276"/>
+      <hotspot pan="-346.15" title="Стрела-10М2" target="" id="S10M2-desc" description="Зенитно-ракетный комплекс Стрела-10М2 предназначен для уничтожения визуально-наблюдаемых самолётов, вертолётов, крылатых ракет и других воздушных целей на высотах от 25 до 3000м, дальностях от 800 до 5000м и при курсовых параметрах до 3000м.&#xa;&#xa;&lt;a href=&quot;https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%B0-10&quot;>Википедия&lt;/a>" tilt="-13.03" skinid="ht_info" url=""/>
+      <hotspot pan="401.954" title="Стрела-10М2 сбоку" target="$fwd" id="Point02" description="" tilt="0" skinid="ht_node" url="{node33}" distance="8.47103"/>
+      <hotspot pan="-4.13" title="Экипаж Стрелы-10М2" target="$fwd" id="Point03" description="" tilt="-5.54" skinid="ht_node" url="{node29}" distance="3.17709"/>
+      <hotspot pan="-25.7" title="Стрела-10 на &quot;Википедии&quot;" target="_blank" id="Point04" description="" tilt="-11.99" skinid="ht_url" url="https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%B0-10#9%D0%9A35%D0%9C2_%C2%AB%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%B0-10%D0%9C2%C2%BB"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node28">
-    <input overlap="1" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node28" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="121" fovmode="0">
-      <start fov="70" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="121">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="sources" latitude="53.94359420" altitude="288.60" comment="" nodeid="node28" datetime="10.11.2020 11:41" copyright="" source="" author="" info="" customnodeid="" description="" title="Стрела-10М2 сзади" heading="121" longitude="27.62690407"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="0" distance="11.1376" description="" url="{node33}" id="Point02" title="Стрела-10М2 сбоку" target="$fwd" pan="-44.656" skinid="ht_node"/>
+    <userdata author="" latitude="53.94359420" title="Стрела-10М2 сзади" customnodeid="" tags="sources" description="" heading="121" source="" info="" comment="" datetime="10.11.2020 11:41" copyright="" nodeid="node28" altitude="288.60" longitude="27.62690407"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-44.656" title="Стрела-10М2 сбоку" target="$fwd" id="Point02" description="" tilt="0" skinid="ht_node" url="{node33}" distance="11.1376"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node29">
-    <input overlap="1" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node29" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="285" fovmode="0">
-      <start fov="70" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="285">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="sources" latitude="53.94352228" altitude="288.60" comment="" nodeid="node29" datetime="10.11.2020 11:56" copyright="" source="" author="" info="" customnodeid="" description="" title="Экипаж Стрелы-10М2" heading="285" longitude="27.62706466"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-5.92" distance="6.74801" description="" url="{node31}" id="Point01" title="Посадка в Стрелу-10М2" target="" pan="-39.39" skinid="ht_node"/>
-      <hotspot tilt="-7.55" description="Экипаж состоит из 3 человек:&#xa;1) Механик-водитель&#xa;2) Оператор&#xa;3) Командир" url="" id="Point02" title="Информация об экипаже" target="" pan="-26.18" skinid="ht_info"/>
+    <userdata author="" latitude="53.94352228" title="Экипаж Стрелы-10М2" customnodeid="" tags="sources" description="" heading="285" source="" info="" comment="" datetime="10.11.2020 11:56" copyright="" nodeid="node29" altitude="288.60" longitude="27.62706466"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-39.39" title="Посадка в Стрелу-10М2" target="" id="Point01" description="" tilt="-5.92" skinid="ht_node" url="{node31}" distance="6.74801"/>
+      <hotspot pan="-26.18" title="Информация об экипаже" target="" id="Point02" description="Экипаж состоит из 3 человек:&#xa;1) Механик-водитель&#xa;2) Оператор&#xa;3) Командир" tilt="-7.55" skinid="ht_info" url=""/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node31">
-    <input overlap="1" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node31" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="300" fovmode="0">
-      <start fov="70" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="300">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="sources" latitude="53.94348919" comment="" nodeid="node31" datetime="10.11.2020 12:11" copyright="" source="" author="" info="" customnodeid="" description="" title="Высадка из Стрелы-10М2" heading="300" longitude="27.62697823"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-8.13" distance="6.398" description="" url="{node27}" id="Point01" title="Вернуться обратно" target="" pan="-4.76" skinid="ht_node"/>
+    <userdata author="" latitude="53.94348919" title="Высадка из Стрелы-10М2" customnodeid="" tags="sources" description="" heading="300" source="" info="" comment="" datetime="10.11.2020 12:11" copyright="" nodeid="node31" longitude="27.62697823"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-4.76" title="Вернуться обратно" target="" id="Point01" description="" tilt="-8.13" skinid="ht_node" url="{node27}" distance="6.398"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node33">
-    <input overlap="1" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node33" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="20" fovmode="0">
-      <start fov="70" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="20">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="sources" latitude="53.94349716" altitude="263.18" comment="" nodeid="node33" datetime="10.11.2020 12:26" copyright="" source="" author="" info="" customnodeid="" description="" title="Стрела-10М2 сбоку" heading="20" longitude="27.62694623"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="0" distance="8.47103" description="" url="{node27}" id="Point01" title="Стрела-10М2" target="$fwd" pan="-72.0461" skinid="ht_node"/>
-      <hotspot tilt="0" distance="11.1376" description="" url="{node28}" id="Point02" title="Стрела-10М2 сзади" target="$fwd" pan="34.344" skinid="ht_node"/>
+    <userdata author="" latitude="53.94349716" title="Стрела-10М2 сбоку" customnodeid="" tags="sources" description="" heading="20" source="" info="" comment="" datetime="10.11.2020 12:26" copyright="" nodeid="node33" altitude="263.18" longitude="27.62694623"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="-72.0461" title="Стрела-10М2" target="$fwd" id="Point01" description="" tilt="0" skinid="ht_node" url="{node27}" distance="8.47103"/>
+      <hotspot pan="34.344" title="Стрела-10М2 сзади" target="$fwd" id="Point02" description="" tilt="0" skinid="ht_node" url="{node28}" distance="11.1376"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node35">
-    <input overlap="1" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node35" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="14" fovmode="0">
-      <start fov="70" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="14">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="gym|sources" latitude="53.89193503" comment="" nodeid="node35" datetime="06.11.2020 11:59" copyright="" source="" author="" info="" customnodeid="" description="Тренажёрный зал" title="Тренажёрный зал" heading="14" longitude="27.56591231"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="0" distance="9.00732" description="" url="{node36}" id="Point02" title="Тренажёрный зал" target="$fwd" pan="98.3962" skinid="ht_node"/>
-      <hotspot tilt="0" distance="19.3125" description="" url="{node18}" id="Point01" title="Стадион" target="$fwd" pan="149.571" skinid="ht_node"/>
+    <userdata author="" latitude="53.89193503" title="Тренажёрный зал" customnodeid="" tags="gym|sources" description="Тренажёрный зал" heading="14" source="" info="" comment="" datetime="06.11.2020 11:59" copyright="" nodeid="node35" longitude="27.56591231"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="98.3962" title="Тренажёрный зал" target="$fwd" id="Point02" description="" tilt="0" skinid="ht_node" url="{node36}" distance="9.00732"/>
+      <hotspot pan="149.571" title="Стадион" target="$fwd" id="Point01" description="" tilt="0" skinid="ht_node" url="{node18}" distance="19.3125"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node36">
-    <input overlap="1" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node36" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="322" fovmode="0">
-      <start fov="70" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="322">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="gym|sources" latitude="53.89194294" comment="" nodeid="node36" datetime="06.11.2020 12:16" copyright="" source="" author="" info="" customnodeid="" description="Тренажёрный зал" title="Тренажёрный зал" heading="322" longitude="27.56577551"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="0" distance="15.3619" description="" url="{node18}" id="Point01" title="Стадион" target="$fwd" pan="484.752" skinid="ht_node"/>
-      <hotspot tilt="0" distance="9.00732" description="" url="{node35}" id="Point02" title="Тренажёрный зал" target="$fwd" pan="226.396" skinid="ht_node"/>
+    <userdata author="" latitude="53.89194294" title="Тренажёрный зал" customnodeid="" tags="gym|sources" description="Тренажёрный зал" heading="322" source="" info="" comment="" datetime="06.11.2020 12:16" copyright="" nodeid="node36" longitude="27.56577551"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="484.752" title="Стадион" target="$fwd" id="Point01" description="" tilt="0" skinid="ht_node" url="{node18}" distance="15.3619"/>
+      <hotspot pan="226.396" title="Тренажёрный зал" target="$fwd" id="Point02" description="" tilt="0" skinid="ht_node" url="{node35}" distance="9.00732"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node37">
-    <input overlap="1" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node37" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="24" fovmode="0">
-      <start fov="70" tilt="0" projection="4" pan="2"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min fov="2" tilt="-90" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="24">
+      <start pan="2" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="outdoors|to_fix" latitude="53.89060727" comment="" nodeid="node37" datetime="" copyright="" source="" author="" info="" customnodeid="" description="" title="Столовая" heading="24" longitude="27.56745994"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="0" distance="70.669" description="" url="{node20}" id="Point01" title="Вход в общежитие" target="$fwd" pan="66.5558" skinid="ht_node"/>
-      <hotspot tilt="0" distance="24.8766" description="" url="{node39}" id="Point02" title="Класс огневой подготовки" target="$fwd" pan="-18.7095" skinid="ht_node"/>
+    <userdata author="" latitude="53.89060727" title="Столовая" customnodeid="" tags="outdoors|to_fix" description="" heading="24" source="" info="" comment="" datetime="" copyright="" nodeid="node37" longitude="27.56745994"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="66.5558" title="Вход в общежитие" target="$fwd" id="Point01" description="" tilt="0" skinid="ht_node" url="{node20}" distance="70.669"/>
+      <hotspot pan="-18.7095" title="Класс огневой подготовки" target="$fwd" id="Point02" description="" tilt="0" skinid="ht_node" url="{node39}" distance="24.8766"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node38">
-    <input overlap="1" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node38" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="30" fovmode="0">
-      <start fov="70" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="30">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="Telegram Desktop" latitude="53.89082066" comment="" nodeid="node38" datetime="13.12.2022 17:39" copyright="" source="" author="" info="" customnodeid="" description="" title="Тир" heading="30" longitude="27.56777644"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="0" distance="6.68131" description="" url="{node39}" id="Point01" title="Класс огневой подготовки" target="$fwd" pan="174.636" skinid="ht_node"/>
+    <userdata author="" latitude="53.89082066" title="Тир" customnodeid="" tags="Telegram Desktop" description="" heading="30" source="" info="" comment="" datetime="13.12.2022 17:39" copyright="" nodeid="node38" longitude="27.56777644"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="174.636" title="Класс огневой подготовки" target="$fwd" id="Point01" description="" tilt="0" skinid="ht_node" url="{node39}" distance="6.68131"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node39">
-    <input overlap="1" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node39" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="214" fovmode="0">
-      <start fov="70" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="214">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="Telegram Desktop" latitude="53.89077166" comment="" nodeid="node39" datetime="13.12.2022 15:56" copyright="" source="" author="" info="" customnodeid="" description="" title="Класс огневой подготовки" heading="214" longitude="27.56771743"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="0" distance="24.8766" description="" url="{node37}" id="Point01" title="Столовая" target="$fwd" pan="351.29" skinid="ht_node"/>
-      <hotspot tilt="0" distance="6.68131" description="" url="{node38}" id="Point02" title="Тир" target="$fwd" pan="178.636" skinid="ht_node"/>
-      <hotspot tilt="1.11" description="" url="images/vintovka-dragunova33.jpg" id="Информация" title="Информация" target="" pan="-102.95" skinid="ht_image"/>
-      <hotspot tilt="1.29" description="" url="images/2_24.jpg" id="Информация" title="Информация" target="" pan="-119.63" skinid="ht_image"/>
-      <hotspot tilt="1.88" description="9-мм Пистолет Макарова" url="images/pm-shema-rozborki-pistolet.jpg" id="Информация" title="Информация" target="" pan="-132.47" skinid="ht_image"/>
-      <hotspot tilt="1.19" description="" url="images/Machine_guns_7,62mm_PKM_502851_3840x2400.jpg" id="Point03" title="Информация" target="" pan="-83.75" skinid="ht_image"/>
-      <hotspot tilt="1.55" description="" url="images/rpg-7-skhema-granatomiot.jpg" id="Point04" title="Информация" target="" pan="-64.56" skinid="ht_image"/>
+    <userdata author="" latitude="53.89077166" title="Класс огневой подготовки" customnodeid="" tags="Telegram Desktop" description="" heading="214" source="" info="" comment="" datetime="13.12.2022 15:56" copyright="" nodeid="node39" longitude="27.56771743"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="351.29" title="Столовая" target="$fwd" id="Point01" description="" tilt="0" skinid="ht_node" url="{node37}" distance="24.8766"/>
+      <hotspot pan="178.636" title="Тир" target="$fwd" id="Point02" description="" tilt="0" skinid="ht_node" url="{node38}" distance="6.68131"/>
+      <hotspot pan="-102.95" title="Информация" target="" id="Информация" description="" tilt="1.11" skinid="ht_image" url="images/vintovka-dragunova33.jpg"/>
+      <hotspot pan="-119.63" title="Информация" target="" id="Информация" description="" tilt="1.29" skinid="ht_image" url="images/2_24.jpg"/>
+      <hotspot pan="-132.47" title="Информация" target="" id="Информация" description="9-мм Пистолет Макарова" tilt="1.88" skinid="ht_image" url="images/pm-shema-rozborki-pistolet.jpg"/>
+      <hotspot pan="-83.75" title="Информация" target="" id="Point03" description="" tilt="1.19" skinid="ht_image" url="images/Machine_guns_7,62mm_PKM_502851_3840x2400.jpg"/>
+      <hotspot pan="-64.56" title="Информация" target="" id="Point04" description="" tilt="1.55" skinid="ht_image" url="images/rpg-7-skhema-granatomiot.jpg"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
-  <panorama hideabout="1" id="node40">
-    <input overlap="1" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" width="2176" levelingpitch="0" levelbiashidpi="1.000" height="2176">
-      <level width="2176" height="2176" preload="0" predecode="0"/>
-      <level width="1088" height="1088" preload="0" predecode="0"/>
-      <level width="544" height="544" preload="0" predecode="0"/>
-      <level width="272" height="272" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node40" hideabout="1">
+    <input levelingpitch="0" width="2176" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="2176" levelbias="0.400" overlap="1" leveltilesize="510" levelingroll="0">
+      <level width="2176" height="2176" predecode="0" preload="0"/>
+      <level width="1088" height="1088" predecode="0" preload="0"/>
+      <level width="544" height="544" predecode="0" preload="0"/>
+      <level width="272" height="272" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="0">
-      <start fov="130" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" tilt="90" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="130" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
     </view>
-    <userdata tags="Pano2VR6" latitude="53.89220327" comment="" nodeid="node40" datetime="29.10.2020 11:47" copyright="" source="" author="" info="" customnodeid="" description="" title="Класс РХБЗ" heading="0" longitude="27.56403143"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000" background="1" width="180" enabled="1" borderradius="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="0" distance="10.0619" description="" url="{node5}" id="Point01" title="Класс РХБЗ" target="$fwd" pan="32.3084" skinid="ht_node"/>
-      <hotspot tilt="-8.03" distance="204.59" description="" url="{node14}" id="Point02" title="5-й этаж, холл" target="" pan="-155.55" skinid="ht_node"/>
-      <hotspot tilt="-26.31" description="" url="images/photo_2022-12-11_14-42-44.jpg" id="Point03" title="Архивное фото" target="" pan="-356.98" skinid="ht_image"/>
+    <userdata author="" latitude="53.89220327" title="Класс РХБЗ" customnodeid="" tags="Pano2VR6" description="" heading="0" source="" info="" comment="" datetime="29.10.2020 11:47" copyright="" nodeid="node40" longitude="27.56403143"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" borderradius="1" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" enabled="1" height="20" background="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot pan="32.3084" title="Класс РХБЗ" target="$fwd" id="Point01" description="" tilt="0" skinid="ht_node" url="{node5}" distance="10.0619"/>
+      <hotspot pan="-155.55" title="5-й этаж, холл" target="" id="Point02" description="" tilt="-8.03" skinid="ht_node" url="{node14}" distance="204.59"/>
+      <hotspot pan="-356.98" title="Архивное фото" target="" id="Point03" description="" tilt="-26.31" skinid="ht_image" url="images/photo_2022-12-11_14-42-44.jpg"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="0" zoomin="2" zoomafteroutfov="20" enabled="1" zoomout="0"/>
+    <transition zoomfov="20" blendtime="1" type="crossdissolve" softedge="0" zoomafteroutfov="20" enabled="1" zoomoutpause="0" zoomspeed="2" zoomin="2" zoomout="0" blendcolor="0x000000" zoomafterinfov="90"/>
     <flyintransition speed="0.90" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextvr="1" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" contextprojections="1" hideabout="1" rubberband="0" speedwheel="1.5" invertwheel="1" lockedkeyboard="0" sensitivity="8" simulatemass="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="1" rubberband="0" invertwheel="1" speedwheel="1.5" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="1" contextprojections="1" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
   <masternode>
-    <userdata tags="" latitude="" comment="" nodeid="master" datetime="" copyright="" source="" author="" info="" customnodeid="" description="" title="Военный факультет БГУ" heading="0" longitude=""/>
+    <userdata author="" latitude="" title="Военный факультет БГУ" customnodeid="" tags="" description="" heading="0" source="" info="" comment="" datetime="" copyright="" nodeid="master" longitude=""/>
   </masternode>
 </tour>
